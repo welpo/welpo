@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- blog starts -->
-## Latest blog posts
+- 🌱 Currently learning Rust.
+- 🎧 Listening to <!-- lastfm start -->[Ian William Craig](https://www.last.fm/music/Ian+William+Craig)<!-- lastfm end --> on repeat lately.
+- 🎹 **Fun fact**: I make music! Feel free to check out [my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
+<!-- blog start -->
+## Latest blog posts
 - [The 8 Most Important Statistical Ideas: Bootstrapping and Simulation-Based Inference](https://osc.garden/blog/bootstrapping-and-simulation-based-inference/) • 2023-11-27
 - [Nine Illustrated Tips to Get Started with AI Chatbots like ChatGPT](https://osc.garden/blog/beginners-guide-to-ai-chatbots/) • 2023-11-21
 - [The 8 Most Important Statistical Ideas: Counterfactual Causal Inference](https://osc.garden/blog/counterfactual-causal-inference/) • 2023-10-23
@@ -26,4 +29,4 @@ Here are some ideas to get you started:
 - [Resting-State Functional Magnetic Resonance Imaging (rsfMRI) in Attention Deficit Hyperactivity Disorder: Meta-Analysis](https://osc.garden/blog/rsfmri-adhd-meta-analysis/) • 2021-06-10
 
 More on [osc.garden](https://osc.garden)
-<!-- blog ends -->
+<!-- blog end -->
