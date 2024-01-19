@@ -1,0 +1,19 @@
+# This is the configuration file for dōteki, a tool to easily add dynamic content to your GitHub profile.
+# For more information and documentation, visit https://doteki.org/
+
+[sections.blog]
+plugin = "feed"
+url = "https://osc.garden/atom.xml"
+n = 8
+show_date = false
+prepend_text = "## Latest blog posts\n\n"
+append_text = "\n\nMore on [osc.garden](https://osc.garden)"
+
+[sections.lastfm]
+plugin = "lastfm"
+username = "welpo"
+type = "artists"
+period = "7day"
+n = 3
+inline = true
+preset = "comma_and"

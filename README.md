@@ -1,32 +1,20 @@
-<!--
-**welpo/welpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 Currently learning Rust.
-- 🎧 Listening to <!-- lastfm start -->[Ian William Craig](https://www.last.fm/music/Ian+William+Craig)<!-- lastfm end --> on repeat lately.
-- 🎹 **Fun fact**: I make music! Feel free to check out [my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
+- 🌱 Always learning
+- 🎧 This week I've been listening to <!-- lastfm start -->[Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), [Tinashe](https://www.last.fm/music/Tinashe), and [Ken Carson](https://www.last.fm/music/Ken+Carson)<!-- lastfm end -->
+- 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
 ## Latest blog posts
-- [The 8 Most Important Statistical Ideas: Bootstrapping and Simulation-Based Inference](https://osc.garden/blog/bootstrapping-and-simulation-based-inference/) • 2023-11-27
-- [Nine Illustrated Tips to Get Started with AI Chatbots like ChatGPT](https://osc.garden/blog/beginners-guide-to-ai-chatbots/) • 2023-11-21
-- [The 8 Most Important Statistical Ideas: Counterfactual Causal Inference](https://osc.garden/blog/counterfactual-causal-inference/) • 2023-10-23
-- [From Text to Texture: Transforming My Favourite Quotes into Generative Art](https://osc.garden/blog/transforming-quotes-into-generative-art/) • 2023-10-19
-- [From Bashful to Social Butterfly: Automating Link Previews for Zola Sites](https://osc.garden/blog/automating-social-media-cards-zola/) • 2023-09-06
-- [Automatically Updating My Zola Site Using a Webhook](https://osc.garden/blog/updating-site-with-webhook/) • 2023-08-28
-- [Zola Git Pre-Commit Hook: Updating Post Dates](https://osc.garden/blog/zola-date-git-hook/) • 2023-04-17
-- [Resting-State Functional Magnetic Resonance Imaging (rsfMRI) in Attention Deficit Hyperactivity Disorder: Meta-Analysis](https://osc.garden/blog/rsfmri-adhd-meta-analysis/) • 2021-06-10
+
+- [Self-Hosting GoatCounter with an nginx Reverse Proxy and SSL](https://osc.garden/blog/self-hosting-goatcounter/)
+- [The 8 Most Important Statistical Ideas: Bootstrapping and Simulation-Based Inference](https://osc.garden/blog/bootstrapping-and-simulation-based-inference/)
+- [Nine Illustrated Tips to Get Started with AI Chatbots like ChatGPT](https://osc.garden/blog/beginners-guide-to-ai-chatbots/)
+- [The 8 Most Important Statistical Ideas: Counterfactual Causal Inference](https://osc.garden/blog/counterfactual-causal-inference/)
+- [From Text to Texture: Transforming My Favourite Quotes into Generative Art](https://osc.garden/blog/transforming-quotes-into-generative-art/)
+- [From Bashful to Social Butterfly: Automating Link Previews for Zola Sites](https://osc.garden/blog/automating-social-media-cards-zola/)
+- [Automatically Updating My Zola Site Using a Webhook](https://osc.garden/blog/updating-site-with-webhook/)
+- [Zola Git Pre-Commit Hook: Updating Post Dates](https://osc.garden/blog/zola-date-git-hook/)
 
 More on [osc.garden](https://osc.garden)
 <!-- blog end -->
+
+<a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
