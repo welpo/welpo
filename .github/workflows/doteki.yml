@@ -21,3 +21,4 @@ jobs:
         uses: welpo/doteki-action@main  # Use latest version of doteki-action (and dōteki).
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DOTEKI_LASTFM_API_KEY: ${{ secrets.lastfm_api_key }}
