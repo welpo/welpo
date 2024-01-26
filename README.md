@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), [Tinashe](https://www.last.fm/music/Tinashe), and [Ken Carson](https://www.last.fm/music/Ken+Carson)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[yeule](https://www.last.fm/music/yeule), [Future](https://www.last.fm/music/Future), and [Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
