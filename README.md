@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Indigo De Souza](https://www.last.fm/music/Indigo+De+Souza), [yeule](https://www.last.fm/music/yeule), and [Tinashe](https://www.last.fm/music/Tinashe)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Indigo De Souza](https://www.last.fm/music/Indigo+De+Souza), [Tinashe](https://www.last.fm/music/Tinashe), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
