@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), [Aleph](https://www.last.fm/music/Aleph), and [BLP KOSHER](https://www.last.fm/music/BLP+KOSHER)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), [Aleph](https://www.last.fm/music/Aleph), and [Agorazein](https://www.last.fm/music/Agorazein)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
