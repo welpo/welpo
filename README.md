@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), [OutKast](https://www.last.fm/music/OutKast), and [Amnesia Scanner & Freeka Tet](https://www.last.fm/music/Amnesia+Scanner+&+Freeka+Tet)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), [OutKast](https://www.last.fm/music/OutKast), and [Orchid Mantis](https://www.last.fm/music/Orchid+Mantis)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
