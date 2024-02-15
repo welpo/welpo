@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), [OutKast](https://www.last.fm/music/OutKast), and [Porches](https://www.last.fm/music/Porches)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[OutKast](https://www.last.fm/music/OutKast), [Porches](https://www.last.fm/music/Porches), and [Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
