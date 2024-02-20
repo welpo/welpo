@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [GZA/Genius](https://www.last.fm/music/GZA%2FGenius), and [Young Thug](https://www.last.fm/music/Young+Thug)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [GZA/Genius](https://www.last.fm/music/GZA%2FGenius), and [Indigo De Souza](https://www.last.fm/music/Indigo+De+Souza)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
