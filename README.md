@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Manos De Topo](https://www.last.fm/music/Manos+De+Topo), [JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Manos De Topo](https://www.last.fm/music/Manos+De+Topo), [Yeat](https://www.last.fm/music/Yeat), and [Everything Everything](https://www.last.fm/music/Everything+Everything)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
