@@ -5,6 +5,7 @@
 <!-- blog start -->
 ## Latest blog posts
 
+- [Notes on Notes: Analysing Seven Years of Music Streaming Data](https://osc.garden/blog/data-analysis-music-streaming/)
 - [Self-Hosting GoatCounter with an nginx Reverse Proxy and SSL](https://osc.garden/blog/self-hosting-goatcounter/)
 - [The 8 Most Important Statistical Ideas: Bootstrapping and Simulation-Based Inference](https://osc.garden/blog/bootstrapping-and-simulation-based-inference/)
 - [Nine Illustrated Tips to Get Started with AI Chatbots like ChatGPT](https://osc.garden/blog/beginners-guide-to-ai-chatbots/)
@@ -12,7 +13,6 @@
 - [From Text to Texture: Transforming My Favourite Quotes into Generative Art](https://osc.garden/blog/transforming-quotes-into-generative-art/)
 - [From Bashful to Social Butterfly: Automating Link Previews for Zola Sites](https://osc.garden/blog/automating-social-media-cards-zola/)
 - [Automatically Updating My Zola Site Using a Webhook](https://osc.garden/blog/updating-site-with-webhook/)
-- [Zola Git Pre-Commit Hook: Updating Post Dates](https://osc.garden/blog/zola-date-git-hook/)
 
 More on [osc.garden](https://osc.garden)
 <!-- blog end -->
