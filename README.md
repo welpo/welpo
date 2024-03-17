@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Manos De Topo](https://www.last.fm/music/Manos+De+Topo), [Red House Painters](https://www.last.fm/music/Red+House+Painters), and [JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Red House Painters](https://www.last.fm/music/Red+House+Painters), [JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA), and [Bladee](https://www.last.fm/music/Bladee)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
