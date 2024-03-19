@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Sufjan Stevens](https://www.last.fm/music/Sufjan+Stevens), [Yeat](https://www.last.fm/music/Yeat), and [Red House Painters](https://www.last.fm/music/Red+House+Painters)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Sufjan Stevens](https://www.last.fm/music/Sufjan+Stevens), [Yeat](https://www.last.fm/music/Yeat), and [Everything Everything](https://www.last.fm/music/Everything+Everything)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
