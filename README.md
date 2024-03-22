@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [BLP KOSHER](https://www.last.fm/music/BLP+KOSHER), and [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [BLP KOSHER](https://www.last.fm/music/BLP+KOSHER), and [Kurt Vile](https://www.last.fm/music/Kurt+Vile)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
