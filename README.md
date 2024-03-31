@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Young Thug](https://www.last.fm/music/Young+Thug), [Adrianne Lenker](https://www.last.fm/music/Adrianne+Lenker), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Young Thug](https://www.last.fm/music/Young+Thug), [Yeat](https://www.last.fm/music/Yeat), and [Adrianne Lenker](https://www.last.fm/music/Adrianne+Lenker)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
