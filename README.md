@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Pedro LaDroga, $kyhook & SKYDRVG](https://www.last.fm/music/Pedro+LaDroga,+$kyhook+&+SKYDRVG), [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), and [Young Thug](https://www.last.fm/music/Young+Thug)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Pedro LaDroga, $kyhook & SKYDRVG](https://www.last.fm/music/Pedro+LaDroga,+$kyhook+&+SKYDRVG), [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), and [Frank Ocean](https://www.last.fm/music/Frank+Ocean)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
