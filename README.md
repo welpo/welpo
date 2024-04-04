@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), [Frank Ocean](https://www.last.fm/music/Frank+Ocean), and [Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Adrianne Lenker](https://www.last.fm/music/Adrianne+Lenker), [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), and [坂本龍一](https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
