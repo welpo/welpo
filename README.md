@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[坂本龍一](https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80), [Novo Amor](https://www.last.fm/music/Novo+Amor), and [Nujabes](https://www.last.fm/music/Nujabes)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[坂本龍一](https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80), [Novo Amor](https://www.last.fm/music/Novo+Amor), and [Adrianne Lenker](https://www.last.fm/music/Adrianne+Lenker)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
