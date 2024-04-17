@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[C. Tangana](https://www.last.fm/music/C.+Tangana), [Liga Bazooka & Jaloner](https://www.last.fm/music/Liga+Bazooka+&+Jaloner), and [Porches](https://www.last.fm/music/Porches)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[C. Tangana](https://www.last.fm/music/C.+Tangana), [Liga Bazooka & Jaloner](https://www.last.fm/music/Liga+Bazooka+&+Jaloner), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
