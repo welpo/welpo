@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[SFDK](https://www.last.fm/music/SFDK), [Angelo Badalamenti](https://www.last.fm/music/Angelo+Badalamenti), and [Tim Hecker](https://www.last.fm/music/Tim+Hecker)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Angelo Badalamenti](https://www.last.fm/music/Angelo+Badalamenti), [Tim Hecker](https://www.last.fm/music/Tim+Hecker), and [SFDK](https://www.last.fm/music/SFDK)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
