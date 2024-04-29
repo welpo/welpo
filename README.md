@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Angelo Badalamenti](https://www.last.fm/music/Angelo+Badalamenti), and [Polaris](https://www.last.fm/music/Polaris)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Polaris](https://www.last.fm/music/Polaris), and [Cass.](https://www.last.fm/music/Cass.)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
