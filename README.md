@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), and [Cass.](https://www.last.fm/music/Cass.)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Cass.](https://www.last.fm/music/Cass.), and [Polaris](https://www.last.fm/music/Polaris)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
