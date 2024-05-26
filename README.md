@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon), and [Crumb](https://www.last.fm/music/Crumb)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [Fjaak](https://www.last.fm/music/Fjaak), and [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
