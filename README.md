@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Oneohtrix Point Never](https://www.last.fm/music/Oneohtrix+Point+Never), [Tim Hecker](https://www.last.fm/music/Tim+Hecker), and [Parannoul](https://www.last.fm/music/Parannoul)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Oneohtrix Point Never](https://www.last.fm/music/Oneohtrix+Point+Never), [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), and [Tim Hecker](https://www.last.fm/music/Tim+Hecker)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
