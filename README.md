@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), [Charli XCX](https://www.last.fm/music/Charli+XCX), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), [Charli XCX](https://www.last.fm/music/Charli+XCX), and [Vince Staples](https://www.last.fm/music/Vince+Staples)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
