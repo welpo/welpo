@@ -5,6 +5,7 @@
 <!-- blog start -->
 ## Latest blog posts
 
+- [Ichiko Aoba's Poetic Palette: Learning Japanese Through Morphology Analysis](https://osc.garden/blog/ichiko-aoba-lyrics-japanese-morphology/)
 - [Returning](https://osc.garden/blog/nostalgia/)
 - [Building a Tool To Add Dynamic Content to My GitHub Profile](https://osc.garden/blog/doteki-building-a-dynamic-github-profile/)
 - [Notes on Notes: Analysing Seven Years of Music Streaming Data](https://osc.garden/blog/data-analysis-music-streaming/)
@@ -12,7 +13,6 @@
 - [The 8 Most Important Statistical Ideas: Bootstrapping and Simulation-Based Inference](https://osc.garden/blog/bootstrapping-and-simulation-based-inference/)
 - [Nine Illustrated Tips to Get Started with AI Chatbots like ChatGPT](https://osc.garden/blog/beginners-guide-to-ai-chatbots/)
 - [The 8 Most Important Statistical Ideas: Counterfactual Causal Inference](https://osc.garden/blog/counterfactual-causal-inference/)
-- [From Text to Texture: Transforming My Favourite Quotes into Generative Art](https://osc.garden/blog/transforming-quotes-into-generative-art/)
 
 More on [osc.garden](https://osc.garden)
 <!-- blog end -->
