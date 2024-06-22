@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Vince Staples](https://www.last.fm/music/Vince+Staples), [Lamp](https://www.last.fm/music/Lamp), and [Charli XCX](https://www.last.fm/music/Charli+XCX)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Lamp](https://www.last.fm/music/Lamp), [Vince Staples](https://www.last.fm/music/Vince+Staples), and [Charli XCX](https://www.last.fm/music/Charli+XCX)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
