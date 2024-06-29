@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Lamp](https://www.last.fm/music/Lamp), [Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane), and [NxWorries](https://www.last.fm/music/NxWorries)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Lamp](https://www.last.fm/music/Lamp), [A. G. Cook](https://www.last.fm/music/A.+G.+Cook), and [Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
