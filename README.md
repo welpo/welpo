@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[A. G. Cook](https://www.last.fm/music/A.+G.+Cook), [Jaloner](https://www.last.fm/music/Jaloner), and [Falsalarma](https://www.last.fm/music/Falsalarma)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Jaloner](https://www.last.fm/music/Jaloner), [A. G. Cook](https://www.last.fm/music/A.+G.+Cook), and [Falsalarma](https://www.last.fm/music/Falsalarma)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
