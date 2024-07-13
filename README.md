@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Lamp](https://www.last.fm/music/Lamp), [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), and [$uicideboy$](https://www.last.fm/music/$uicideboy$)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Lamp](https://www.last.fm/music/Lamp), [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), and [Eminem](https://www.last.fm/music/Eminem)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
