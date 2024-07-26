@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Childish Gambino](https://www.last.fm/music/Childish+Gambino), [Megan Thee Stallion](https://www.last.fm/music/Megan+Thee+Stallion), and [Lamp](https://www.last.fm/music/Lamp)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Childish Gambino](https://www.last.fm/music/Childish+Gambino), [Megan Thee Stallion](https://www.last.fm/music/Megan+Thee+Stallion), and [Ice Spice](https://www.last.fm/music/Ice+Spice)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
