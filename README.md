@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Gia Margaret](https://www.last.fm/music/Gia+Margaret), [Ice Spice](https://www.last.fm/music/Ice+Spice), and [¥$, Kanye West & Ty Dolla $ign](https://www.last.fm/music/%C2%A5$,+Kanye+West+&+Ty+Dolla+$ign)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Gia Margaret](https://www.last.fm/music/Gia+Margaret), [¥$, Kanye West & Ty Dolla $ign](https://www.last.fm/music/%C2%A5$,+Kanye+West+&+Ty+Dolla+$ign), and [Double](https://www.last.fm/music/Double)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
