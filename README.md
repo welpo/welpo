@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Double](https://www.last.fm/music/Double), [¥$, Kanye West & Ty Dolla $ign](https://www.last.fm/music/%C2%A5$,+Kanye+West+&+Ty+Dolla+$ign), and [Hakushi Hasegawa](https://www.last.fm/music/Hakushi+Hasegawa)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Double](https://www.last.fm/music/Double), [¥$, Kanye West & Ty Dolla $ign](https://www.last.fm/music/%C2%A5$,+Kanye+West+&+Ty+Dolla+$ign), and [Parannoul](https://www.last.fm/music/Parannoul)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
