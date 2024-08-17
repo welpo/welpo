@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[BLP KOSHER](https://www.last.fm/music/BLP+KOSHER), [ultralone & PracciBtz](https://www.last.fm/music/ultralone+&+PracciBtz), and [Kyary Pamyu Pamyu](https://www.last.fm/music/Kyary+Pamyu+Pamyu)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[BLP KOSHER](https://www.last.fm/music/BLP+KOSHER), [ultralone & PracciBtz](https://www.last.fm/music/ultralone+&+PracciBtz), and [Double](https://www.last.fm/music/Double)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
