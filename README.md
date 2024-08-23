@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Flowklorikos](https://www.last.fm/music/Flowklorikos), [The Dead Texan](https://www.last.fm/music/The+Dead+Texan), and [Regret Will Come](https://www.last.fm/music/Regret+Will+Come)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Flowklorikos](https://www.last.fm/music/Flowklorikos), [Regret Will Come](https://www.last.fm/music/Regret+Will+Come), and [Hammock](https://www.last.fm/music/Hammock)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
