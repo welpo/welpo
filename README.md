@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Flowklorikos](https://www.last.fm/music/Flowklorikos), [Clem Leek](https://www.last.fm/music/Clem+Leek), and [Hammock](https://www.last.fm/music/Hammock)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Flowklorikos](https://www.last.fm/music/Flowklorikos), [Clem Leek](https://www.last.fm/music/Clem+Leek), and [矢野顕子](https://www.last.fm/music/%E7%9F%A2%E9%87%8E%E9%A1%95%E5%AD%90)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
