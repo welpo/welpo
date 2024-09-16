@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [Playboi Carti](https://www.last.fm/music/Playboi+Carti), and [Jonatan Leandoer96](https://www.last.fm/music/Jonatan+Leandoer96)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [Playboi Carti](https://www.last.fm/music/Playboi+Carti), and [Raphaël Pichon & Pygmalion](https://www.last.fm/music/Rapha%C3%ABl+Pichon+&+Pygmalion)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
