@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Saho Terao](https://www.last.fm/music/Saho+Terao), [Playboi Carti](https://www.last.fm/music/Playboi+Carti), and [Aimyon](https://www.last.fm/music/Aimyon)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Saho Terao](https://www.last.fm/music/Saho+Terao), [Playboi Carti](https://www.last.fm/music/Playboi+Carti), and [Nala Sinephro](https://www.last.fm/music/Nala+Sinephro)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
