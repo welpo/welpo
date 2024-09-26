@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Saho Terao](https://www.last.fm/music/Saho+Terao), [Hakushi Hasegawa](https://www.last.fm/music/Hakushi+Hasegawa), and [Julianna Barwick](https://www.last.fm/music/Julianna+Barwick)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Saho Terao](https://www.last.fm/music/Saho+Terao), [Hakushi Hasegawa](https://www.last.fm/music/Hakushi+Hasegawa), and [bones & drew the architect](https://www.last.fm/music/bones+&+drew+the+architect)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
