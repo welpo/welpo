@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Hakushi Hasegawa](https://www.last.fm/music/Hakushi+Hasegawa), [bones & drew the architect](https://www.last.fm/music/bones+&+drew+the+architect), and [Future](https://www.last.fm/music/Future)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Hakushi Hasegawa](https://www.last.fm/music/Hakushi+Hasegawa), [Jamie xx](https://www.last.fm/music/Jamie+xx), and [Biosphere](https://www.last.fm/music/Biosphere)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
