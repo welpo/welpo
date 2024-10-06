@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[mitsume](https://www.last.fm/music/mitsume), [Rex Orange County](https://www.last.fm/music/Rex+Orange+County), and [Burial](https://www.last.fm/music/Burial)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[mitsume](https://www.last.fm/music/mitsume), [Burial](https://www.last.fm/music/Burial), and [Rex Orange County](https://www.last.fm/music/Rex+Orange+County)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
