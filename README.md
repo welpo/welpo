@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[William Basinski](https://www.last.fm/music/William+Basinski), [YUTO & DopeOnigiri](https://www.last.fm/music/YUTO+&+DopeOnigiri), and [Maxo Kream](https://www.last.fm/music/Maxo+Kream)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[William Basinski](https://www.last.fm/music/William+Basinski), [wala.collective](https://www.last.fm/music/wala.collective), and [YUTO & DopeOnigiri](https://www.last.fm/music/YUTO+&+DopeOnigiri)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
