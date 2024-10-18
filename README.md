@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[wala.collective](https://www.last.fm/music/wala.collective), [Ano](https://www.last.fm/music/Ano), and [Sala](https://www.last.fm/music/Sala)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Future](https://www.last.fm/music/Future), [wala.collective](https://www.last.fm/music/wala.collective), and [Ano](https://www.last.fm/music/Ano)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
