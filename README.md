@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Ano](https://www.last.fm/music/Ano), [Future](https://www.last.fm/music/Future), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Ano](https://www.last.fm/music/Ano), [Yeat](https://www.last.fm/music/Yeat), and [Future](https://www.last.fm/music/Future)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
