@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Tyler, the Creator](https://www.last.fm/music/Tyler,+the+Creator), [Hitsujibungaku](https://www.last.fm/music/Hitsujibungaku), and [Kyle Bobby Dunn](https://www.last.fm/music/Kyle+Bobby+Dunn)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Tyler, the Creator](https://www.last.fm/music/Tyler,+the+Creator), [Mount Eerie](https://www.last.fm/music/Mount+Eerie), and [Hitsujibungaku](https://www.last.fm/music/Hitsujibungaku)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
