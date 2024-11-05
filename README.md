@@ -1,10 +1,11 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Tyler, the Creator](https://www.last.fm/music/Tyler,+the+Creator), [Mount Eerie](https://www.last.fm/music/Mount+Eerie), and [Hitsujibungaku](https://www.last.fm/music/Hitsujibungaku)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Tyler, the Creator](https://www.last.fm/music/Tyler,+the+Creator), [Mount Eerie](https://www.last.fm/music/Mount+Eerie), and [Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
 ## Latest blog posts
 
+- [Building a Progressive Web App To Practice Japanese Numbers](https://osc.garden/blog/ramu-japanese-numbers-practice-web-app/)
 - [Learning Japanese Through Music: An Analysis of Ichiko Aoba's Lyrics](https://osc.garden/blog/ichiko-aoba-lyrics-japanese-morphology/)
 - [Returning](https://osc.garden/blog/nostalgia/)
 - [Building a Tool To Add Dynamic Content to My GitHub Profile](https://osc.garden/blog/doteki-building-a-dynamic-github-profile/)
@@ -12,7 +13,6 @@
 - [Self-Hosting GoatCounter with an nginx Reverse Proxy and SSL](https://osc.garden/blog/self-hosting-goatcounter/)
 - [The 8 Most Important Statistical Ideas: Bootstrapping and Simulation-Based Inference](https://osc.garden/blog/bootstrapping-and-simulation-based-inference/)
 - [Nine Illustrated Tips to Get Started with AI Chatbots like ChatGPT](https://osc.garden/blog/beginners-guide-to-ai-chatbots/)
-- [The 8 Most Important Statistical Ideas: Counterfactual Causal Inference](https://osc.garden/blog/counterfactual-causal-inference/)
 
 More on [osc.garden](https://osc.garden)
 <!-- blog end -->
