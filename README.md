@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Bones](https://www.last.fm/music/Bones), [Tyler, the Creator](https://www.last.fm/music/Tyler,+the+Creator), and [Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bones](https://www.last.fm/music/Bones), [Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert), and [Tyler, the Creator](https://www.last.fm/music/Tyler,+the+Creator)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
