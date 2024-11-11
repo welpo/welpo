@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Bones](https://www.last.fm/music/Bones), [Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert), and [Mount Eerie](https://www.last.fm/music/Mount+Eerie)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bones](https://www.last.fm/music/Bones), [Lil Uzi Vert](https://www.last.fm/music/Lil+Uzi+Vert), and [Cornelius](https://www.last.fm/music/Cornelius)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
