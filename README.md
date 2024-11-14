@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Bones](https://www.last.fm/music/Bones), [yubiori](https://www.last.fm/music/yubiori), and [Bed](https://www.last.fm/music/Bed)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bones](https://www.last.fm/music/Bones), [yubiori](https://www.last.fm/music/yubiori), and [宇宙コンビニ](https://www.last.fm/music/%E5%AE%87%E5%AE%99%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
