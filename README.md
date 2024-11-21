@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [Manos De Topo](https://www.last.fm/music/Manos+De+Topo), and [William Basinski](https://www.last.fm/music/William+Basinski)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [Manos De Topo](https://www.last.fm/music/Manos+De+Topo), and [Young Thug](https://www.last.fm/music/Young+Thug)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
