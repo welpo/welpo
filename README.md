@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Lamp](https://www.last.fm/music/Lamp), [河名伸江](https://www.last.fm/music/%E6%B2%B3%E5%90%8D%E4%BC%B8%E6%B1%9F), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Lamp](https://www.last.fm/music/Lamp), [河名伸江](https://www.last.fm/music/%E6%B2%B3%E5%90%8D%E4%BC%B8%E6%B1%9F), and [Orisaka Yuta](https://www.last.fm/music/Orisaka+Yuta)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
