@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar), [YOASOBI](https://www.last.fm/music/YOASOBI), and [Masakatsu Takagi](https://www.last.fm/music/Masakatsu+Takagi)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar), [YOASOBI](https://www.last.fm/music/YOASOBI), and [Amaiwana](https://www.last.fm/music/Amaiwana)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
