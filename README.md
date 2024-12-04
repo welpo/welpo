@@ -5,6 +5,7 @@
 <!-- blog start -->
 ## Latest blog posts
 
+- [Building a Minimal Time Management Web App](https://osc.garden/blog/zutsu-offline-task-planner-web-app/)
 - [Building a Progressive Web App To Practice Japanese Numbers](https://osc.garden/blog/ramu-japanese-numbers-practice-web-app/)
 - [Learning Japanese Through Music: An Analysis of Ichiko Aoba's Lyrics](https://osc.garden/blog/ichiko-aoba-lyrics-japanese-morphology/)
 - [Returning](https://osc.garden/blog/nostalgia/)
@@ -12,7 +13,6 @@
 - [Notes on Notes: Analysing Seven Years of Music Streaming Data](https://osc.garden/blog/data-analysis-music-streaming/)
 - [Self-Hosting GoatCounter with an nginx Reverse Proxy and SSL](https://osc.garden/blog/self-hosting-goatcounter/)
 - [The 8 Most Important Statistical Ideas: Bootstrapping and Simulation-Based Inference](https://osc.garden/blog/bootstrapping-and-simulation-based-inference/)
-- [Nine Illustrated Tips to Get Started with AI Chatbots like ChatGPT](https://osc.garden/blog/beginners-guide-to-ai-chatbots/)
 
 More on [osc.garden](https://osc.garden)
 <!-- blog end -->
