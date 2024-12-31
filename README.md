@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Röyksopp](https://www.last.fm/music/R%C3%B6yksopp), [Healy](https://www.last.fm/music/Healy), and [Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Röyksopp](https://www.last.fm/music/R%C3%B6yksopp), [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), and [Healy](https://www.last.fm/music/Healy)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
