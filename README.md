@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Masakatsu Takagi](https://www.last.fm/music/Masakatsu+Takagi), and [Röyksopp](https://www.last.fm/music/R%C3%B6yksopp)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Röyksopp](https://www.last.fm/music/R%C3%B6yksopp), and [Masakatsu Takagi](https://www.last.fm/music/Masakatsu+Takagi)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
