@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Amaiwana](https://www.last.fm/music/Amaiwana), [Volor Flex](https://www.last.fm/music/Volor+Flex), and [Count Bass D](https://www.last.fm/music/Count+Bass+D)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Volor Flex](https://www.last.fm/music/Volor+Flex), [Amaiwana](https://www.last.fm/music/Amaiwana), and [Count Bass D](https://www.last.fm/music/Count+Bass+D)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
