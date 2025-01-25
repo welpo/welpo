@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Volor Flex](https://www.last.fm/music/Volor+Flex), [Burial](https://www.last.fm/music/Burial), and [Pensées](https://www.last.fm/music/Pens%C3%A9es)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Volor Flex](https://www.last.fm/music/Volor+Flex), [Pensées](https://www.last.fm/music/Pens%C3%A9es), and [Burial](https://www.last.fm/music/Burial)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
