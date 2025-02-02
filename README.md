@@ -5,6 +5,7 @@
 <!-- blog start -->
 ## Latest blog posts
 
+- [I Fixed My Sleep Schedule With Code](https://osc.garden/blog/nemui-sleep-schedule-planner/)
 - [Condensing Media for Language Learning with shuku](https://osc.garden/blog/shuku-condensed-media-language-learning/)
 - [Building a Minimal Time Management Web App](https://osc.garden/blog/zutsu-offline-task-planner-web-app/)
 - [Building a Progressive Web App To Practice Japanese Numbers](https://osc.garden/blog/ramu-japanese-numbers-practice-web-app/)
@@ -12,7 +13,6 @@
 - [Returning](https://osc.garden/blog/nostalgia/)
 - [Building a Tool To Add Dynamic Content to My GitHub Profile](https://osc.garden/blog/doteki-building-a-dynamic-github-profile/)
 - [Notes on Notes: Analysing Seven Years of Music Streaming Data](https://osc.garden/blog/data-analysis-music-streaming/)
-- [Self-Hosting GoatCounter with an nginx Reverse Proxy and SSL](https://osc.garden/blog/self-hosting-goatcounter/)
 
 More on [osc.garden](https://osc.garden)
 <!-- blog end -->
