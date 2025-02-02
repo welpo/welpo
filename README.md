@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Suspect](https://www.last.fm/music/Suspect), [Woesum](https://www.last.fm/music/Woesum), and [Ecco2K](https://www.last.fm/music/Ecco2K)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Suspect](https://www.last.fm/music/Suspect), [Bvdub](https://www.last.fm/music/Bvdub), and [Woesum](https://www.last.fm/music/Woesum)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
