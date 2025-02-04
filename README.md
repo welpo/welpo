@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[GoGo Penguin](https://www.last.fm/music/GoGo+Penguin), [Bladee](https://www.last.fm/music/Bladee), and [Bvdub](https://www.last.fm/music/Bvdub)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [GoGo Penguin](https://www.last.fm/music/GoGo+Penguin), and [Bvdub](https://www.last.fm/music/Bvdub)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
