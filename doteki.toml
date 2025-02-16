@@ -14,6 +14,7 @@ plugin = "feed"
 url = "https://osc.garden/notes/atom.xml"
 n = 3
 show_date = false
+sort_field = "updated"
 prepend_text = "## Recently updated notes\n\n"
 append_text = "\n\nSee [more notes](https://osc.garden/notes)"
 
