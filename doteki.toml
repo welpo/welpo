@@ -9,6 +9,14 @@ show_date = false
 prepend_text = "## Latest blog posts\n\n"
 append_text = "\n\nMore on [osc.garden](https://osc.garden)"
 
+[sections.notes]
+plugin = "feed"
+url = "https://osc.garden/notes/atom.xml"
+n = 3
+show_date = false
+prepend_text = "## Recently updated notes\n\n"
+append_text = "\n\nSee [more notes](https://osc.garden/notes)"
+
 [sections.lastfm]
 plugin = "lastfm"
 username = "welpo"

@@ -17,4 +17,14 @@
 More on [osc.garden](https://osc.garden)
 <!-- blog end -->
 
+<!-- notes start -->
+## Recently updated notes
+
+- [Getting Started With uv, the Python Package & Project Manager](https://osc.garden/notes/uv/)
+- [Setting up a NAS with Raspberry Pi](https://osc.garden/notes/raspberry-pi-nas-setup/)
+- [Self-hosting ntfy on Debian with nginx](https://osc.garden/notes/self-hosting-ntfy/)
+
+See [more notes](https://osc.garden/notes)
+<!-- notes end -->
+
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
