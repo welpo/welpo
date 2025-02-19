@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Squidnice](https://www.last.fm/music/Squidnice), and [Bandingo YGNE](https://www.last.fm/music/Bandingo+YGNE)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Bandingo YGNE](https://www.last.fm/music/Bandingo+YGNE), and [Squidnice](https://www.last.fm/music/Squidnice)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
