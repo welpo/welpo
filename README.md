@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Healy](https://www.last.fm/music/Healy), and [Future & Young Thug](https://www.last.fm/music/Future+&+Young+Thug)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Healy](https://www.last.fm/music/Healy), and [Creepy Nuts](https://www.last.fm/music/Creepy+Nuts)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
