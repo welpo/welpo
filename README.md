@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Fog Lake](https://www.last.fm/music/Fog+Lake), [Creepy Nuts](https://www.last.fm/music/Creepy+Nuts), and [Bladee](https://www.last.fm/music/Bladee)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Fog Lake](https://www.last.fm/music/Fog+Lake), [Yo La Tengo](https://www.last.fm/music/Yo+La+Tengo), and [Bladee](https://www.last.fm/music/Bladee)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
