@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Creepy Nuts](https://www.last.fm/music/Creepy+Nuts), [Fog Lake](https://www.last.fm/music/Fog+Lake), and [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Fog Lake](https://www.last.fm/music/Fog+Lake), [Creepy Nuts](https://www.last.fm/music/Creepy+Nuts), and [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
