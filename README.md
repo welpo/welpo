@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Masakatsu Takagi](https://www.last.fm/music/Masakatsu+Takagi), [Fog Lake](https://www.last.fm/music/Fog+Lake), and [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Masakatsu Takagi](https://www.last.fm/music/Masakatsu+Takagi), [Fog Lake](https://www.last.fm/music/Fog+Lake), and [Fat Nick](https://www.last.fm/music/Fat+Nick)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
