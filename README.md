@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Fog Lake](https://www.last.fm/music/Fog+Lake), [Yo La Tengo](https://www.last.fm/music/Yo+La+Tengo), and [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Fog Lake](https://www.last.fm/music/Fog+Lake), [Masakatsu Takagi](https://www.last.fm/music/Masakatsu+Takagi), and [Yo La Tengo](https://www.last.fm/music/Yo+La+Tengo)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
