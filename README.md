@@ -20,9 +20,9 @@ More on [osc.garden](https://osc.garden)
 <!-- notes start -->
 ## Recently updated notes
 
+- [Real-time vimdiff Without Saving Files to Compare Clipboard Content](https://osc.garden/notes/vimdiff-without-files/)
 - [Getting Started With uv, the Python Package & Project Manager](https://osc.garden/notes/uv/)
 - [Setting up a NAS with Raspberry Pi](https://osc.garden/notes/raspberry-pi-nas-setup/)
-- [Self-hosting ntfy on Debian with nginx](https://osc.garden/notes/self-hosting-ntfy/)
 
 See [more notes](https://osc.garden/notes)
 <!-- notes end -->
