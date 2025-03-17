@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Playboi Carti](https://www.last.fm/music/Playboi+Carti), [Fog Lake](https://www.last.fm/music/Fog+Lake), and [Masakatsu Takagi](https://www.last.fm/music/Masakatsu+Takagi)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Playboi Carti](https://www.last.fm/music/Playboi+Carti), [Masakatsu Takagi](https://www.last.fm/music/Masakatsu+Takagi), and [Fog Lake](https://www.last.fm/music/Fog+Lake)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
