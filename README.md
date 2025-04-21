@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Playboi Carti](https://www.last.fm/music/Playboi+Carti), [Bon Iver](https://www.last.fm/music/Bon+Iver), and [Thaiboy Digital](https://www.last.fm/music/Thaiboy+Digital)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Playboi Carti](https://www.last.fm/music/Playboi+Carti), [Bon Iver](https://www.last.fm/music/Bon+Iver), and [Isayah Thomas](https://www.last.fm/music/Isayah+Thomas)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
