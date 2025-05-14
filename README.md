@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[D'Angelo](https://www.last.fm/music/D%27Angelo), [ZXLTRXN](https://www.last.fm/music/ZXLTRXN), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[D'Angelo](https://www.last.fm/music/D%27Angelo), [D’Angelo and The Vanguard](https://www.last.fm/music/D%E2%80%99Angelo+and+The+Vanguard), and [Röyksopp](https://www.last.fm/music/R%C3%B6yksopp)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
