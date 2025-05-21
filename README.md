@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Matt Maltese](https://www.last.fm/music/Matt+Maltese), [Aminé](https://www.last.fm/music/Amin%C3%A9), and [2hollis](https://www.last.fm/music/2hollis)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Matt Maltese](https://www.last.fm/music/Matt+Maltese), [Aminé](https://www.last.fm/music/Amin%C3%A9), and [Rita Payés & Elisabeth Roma](https://www.last.fm/music/Rita+Pay%C3%A9s+&+Elisabeth+Roma)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
