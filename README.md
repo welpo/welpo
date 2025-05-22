@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Matt Maltese](https://www.last.fm/music/Matt+Maltese), [D’Angelo and The Vanguard](https://www.last.fm/music/D%E2%80%99Angelo+and+The+Vanguard), and [Aminé](https://www.last.fm/music/Amin%C3%A9)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[D’Angelo and The Vanguard](https://www.last.fm/music/D%E2%80%99Angelo+and+The+Vanguard), [Matt Maltese](https://www.last.fm/music/Matt+Maltese), and [Aminé](https://www.last.fm/music/Amin%C3%A9)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
