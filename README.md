@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[2hollis](https://www.last.fm/music/2hollis), [Aminé](https://www.last.fm/music/Amin%C3%A9), and [Flowklorikos](https://www.last.fm/music/Flowklorikos)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[2hollis](https://www.last.fm/music/2hollis), [Aminé](https://www.last.fm/music/Amin%C3%A9), and [Alva Noto + Ryuichi Sakamoto](https://www.last.fm/music/Alva+Noto+%252B+Ryuichi+Sakamoto)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
