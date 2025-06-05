@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane), [Sufjan Stevens](https://www.last.fm/music/Sufjan+Stevens), and [BLP KOSHER](https://www.last.fm/music/BLP+KOSHER)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane), [BLP KOSHER](https://www.last.fm/music/BLP+KOSHER), and [Sufjan Stevens](https://www.last.fm/music/Sufjan+Stevens)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
