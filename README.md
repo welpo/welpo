@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Sufjan Stevens](https://www.last.fm/music/Sufjan+Stevens), [BLP KOSHER](https://www.last.fm/music/BLP+KOSHER), and [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Lil' Wayne](https://www.last.fm/music/Lil%27+Wayne), [BLP KOSHER](https://www.last.fm/music/BLP+KOSHER), and [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
