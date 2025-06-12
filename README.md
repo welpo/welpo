@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Lil' Wayne](https://www.last.fm/music/Lil%27+Wayne), [yeule](https://www.last.fm/music/yeule), and [BLP KOSHER](https://www.last.fm/music/BLP+KOSHER)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[yeule](https://www.last.fm/music/yeule), [Lil' Wayne](https://www.last.fm/music/Lil%27+Wayne), and [BLP KOSHER](https://www.last.fm/music/BLP+KOSHER)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
