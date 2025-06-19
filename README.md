@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [yeule](https://www.last.fm/music/yeule), and [Adrianne Lenker](https://www.last.fm/music/Adrianne+Lenker)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [yeule](https://www.last.fm/music/yeule), and [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
