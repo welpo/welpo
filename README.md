@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Choker](https://www.last.fm/music/Choker), [Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane), and [Childish Gambino](https://www.last.fm/music/Childish+Gambino)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Choker](https://www.last.fm/music/Choker), [Daniel Caesar](https://www.last.fm/music/Daniel+Caesar), and [Lil Ugly Mane](https://www.last.fm/music/Lil+Ugly+Mane)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
