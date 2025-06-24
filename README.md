@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar), [Choker](https://www.last.fm/music/Choker), and [Drake & Future](https://www.last.fm/music/Drake+&+Future)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Daniel Caesar](https://www.last.fm/music/Daniel+Caesar), [Choker](https://www.last.fm/music/Choker), and [Future & Metro Boomin](https://www.last.fm/music/Future+&+Metro+Boomin)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
