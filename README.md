@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), and [Joey Valence & Brae](https://www.last.fm/music/Joey+Valence+&+Brae)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [Joey Valence & Brae](https://www.last.fm/music/Joey+Valence+&+Brae), and [Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
