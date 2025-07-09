@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Sampha](https://www.last.fm/music/Sampha), [Stumbleine](https://www.last.fm/music/Stumbleine), and [Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Sampha](https://www.last.fm/music/Sampha), [Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), and [Stumbleine](https://www.last.fm/music/Stumbleine)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
