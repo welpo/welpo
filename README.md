@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Volor Flex](https://www.last.fm/music/Volor+Flex), [Ian William Craig](https://www.last.fm/music/Ian+William+Craig), and [Justin Bieber](https://www.last.fm/music/Justin+Bieber)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Volor Flex](https://www.last.fm/music/Volor+Flex), [Ian William Craig](https://www.last.fm/music/Ian+William+Craig), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
