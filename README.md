@@ -5,6 +5,7 @@
 <!-- blog start -->
 ## Latest blog posts
 
+- [Creating Like Buttons for the Small Web](https://osc.garden/blog/iine-small-web-like-buttons/)
 - [I Fixed My Sleep Schedule With Code](https://osc.garden/blog/nemui-sleep-schedule-planner/)
 - [Condensing Media for Language Learning with shuku](https://osc.garden/blog/shuku-condensed-media-language-learning/)
 - [Building a Minimal Time Management Web App](https://osc.garden/blog/zutsu-offline-task-planner-web-app/)
@@ -12,7 +13,6 @@
 - [Learning Japanese Through Music: An Analysis of Ichiko Aoba's Lyrics](https://osc.garden/blog/ichiko-aoba-lyrics-japanese-morphology/)
 - [Returning](https://osc.garden/blog/nostalgia/)
 - [Building a Tool To Add Dynamic Content to My GitHub Profile](https://osc.garden/blog/doteki-building-a-dynamic-github-profile/)
-- [Notes on Notes: Analysing Seven Years of Music Streaming Data](https://osc.garden/blog/data-analysis-music-streaming/)
 
 More on [osc.garden](https://osc.garden)
 <!-- blog end -->
