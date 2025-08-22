@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [Rusowsky](https://www.last.fm/music/Rusowsky), and [Joey Valence & Brae](https://www.last.fm/music/Joey+Valence+&+Brae)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Yeat](https://www.last.fm/music/Yeat), [Racing Mount Pleasant](https://www.last.fm/music/Racing+Mount+Pleasant), and [Rusowsky](https://www.last.fm/music/Rusowsky)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
