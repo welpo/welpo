@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[1900rugrat](https://www.last.fm/music/1900rugrat), [Don Toliver & Mustard](https://www.last.fm/music/Don+Toliver+&+Mustard), and [Miranda Cosgrove](https://www.last.fm/music/Miranda+Cosgrove)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Don Toliver & Mustard](https://www.last.fm/music/Don+Toliver+&+Mustard), [Miranda Cosgrove](https://www.last.fm/music/Miranda+Cosgrove), and [1900rugrat](https://www.last.fm/music/1900rugrat)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
