@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Headache & Vegyn](https://www.last.fm/music/Headache+&+Vegyn), [Pine Barons](https://www.last.fm/music/Pine+Barons), and [fanclubwallet](https://www.last.fm/music/fanclubwallet)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Headache & Vegyn](https://www.last.fm/music/Headache+&+Vegyn), [fanclubwallet](https://www.last.fm/music/fanclubwallet), and [Pine Barons](https://www.last.fm/music/Pine+Barons)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
