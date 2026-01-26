@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[A$AP Rocky](https://www.last.fm/music/A$AP+Rocky), [Deafheaven](https://www.last.fm/music/Deafheaven), and [Choker](https://www.last.fm/music/Choker)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[A$AP Rocky](https://www.last.fm/music/A$AP+Rocky), [Deafheaven](https://www.last.fm/music/Deafheaven), and [Bones](https://www.last.fm/music/Bones)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
