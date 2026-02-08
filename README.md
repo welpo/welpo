@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Healy](https://www.last.fm/music/Healy), [Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), and [Kings of Convenience](https://www.last.fm/music/Kings+of+Convenience)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Ichiko Aoba](https://www.last.fm/music/Ichiko+Aoba), [Kings of Convenience](https://www.last.fm/music/Kings+of+Convenience), and [Daughter](https://www.last.fm/music/Daughter)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
