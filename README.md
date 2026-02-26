@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Choker](https://www.last.fm/music/Choker), [Crash of Rhinos](https://www.last.fm/music/Crash+of+Rhinos), and [Headache](https://www.last.fm/music/Headache)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Choker](https://www.last.fm/music/Choker), [NGeeYL](https://www.last.fm/music/NGeeYL), and [Crash of Rhinos](https://www.last.fm/music/Crash+of+Rhinos)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
