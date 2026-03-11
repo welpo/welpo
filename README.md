@@ -5,6 +5,7 @@
 <!-- blog start -->
 ## Latest blog posts
 
+- [Developing a Web App to Generate Private yet Shareable Diffs](https://osc.garden/blog/kawari-diff-in-the-url/)
 - [Creating Like Buttons for the Small Web](https://osc.garden/blog/iine-small-web-like-buttons/)
 - [I Fixed My Sleep Schedule With Code](https://osc.garden/blog/nemui-sleep-schedule-planner/)
 - [Condensing Media for Language Learning with shuku](https://osc.garden/blog/shuku-condensed-media-language-learning/)
@@ -12,7 +13,6 @@
 - [Building a Progressive Web App To Practice Japanese Numbers](https://osc.garden/blog/ramu-japanese-numbers-practice-web-app/)
 - [Learning Japanese Through Music: An Analysis of Ichiko Aoba's Lyrics](https://osc.garden/blog/ichiko-aoba-lyrics-japanese-morphology/)
 - [Returning](https://osc.garden/blog/nostalgia/)
-- [Building a Tool To Add Dynamic Content to My GitHub Profile](https://osc.garden/blog/doteki-building-a-dynamic-github-profile/)
 
 More on [osc.garden](https://osc.garden)
 <!-- blog end -->
