@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[kianna](https://www.last.fm/music/kianna), [Fog Lake](https://www.last.fm/music/Fog+Lake), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[kianna](https://www.last.fm/music/kianna), [Fog Lake](https://www.last.fm/music/Fog+Lake), and [Casper Sage](https://www.last.fm/music/Casper+Sage)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
