@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[if i die in mississippi](https://www.last.fm/music/if+i+die+in+mississippi), [Bladee](https://www.last.fm/music/Bladee), and [Playboi Carti](https://www.last.fm/music/Playboi+Carti)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[if i die in mississippi](https://www.last.fm/music/if+i+die+in+mississippi), [Bladee](https://www.last.fm/music/Bladee), and [Gia Margaret](https://www.last.fm/music/Gia+Margaret)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
