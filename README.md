@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA), [Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), and [C. Tangana](https://www.last.fm/music/C.+Tangana)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA), [Frankie Cosmos](https://www.last.fm/music/Frankie+Cosmos), and [1-800 GIRLS](https://www.last.fm/music/1-800+GIRLS)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
