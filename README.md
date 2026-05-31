@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA), [Bladee](https://www.last.fm/music/Bladee), and [Crash of Rhinos](https://www.last.fm/music/Crash+of+Rhinos)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA), [Bladee](https://www.last.fm/music/Bladee), and [Gia Margaret](https://www.last.fm/music/Gia+Margaret)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
