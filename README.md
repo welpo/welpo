@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[1900rugrat](https://www.last.fm/music/1900rugrat), [JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA), and [Bladee](https://www.last.fm/music/Bladee)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Bladee](https://www.last.fm/music/Bladee), [1900rugrat](https://www.last.fm/music/1900rugrat), and [JPEGMAFIA](https://www.last.fm/music/JPEGMAFIA)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
