@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[drip-133](https://www.last.fm/music/drip-133), [1900rugrat](https://www.last.fm/music/1900rugrat), and [Ken Carson](https://www.last.fm/music/Ken+Carson)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Headache](https://www.last.fm/music/Headache), [drip-133](https://www.last.fm/music/drip-133), and [1900rugrat](https://www.last.fm/music/1900rugrat)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
