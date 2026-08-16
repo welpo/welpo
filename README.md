@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Headache](https://www.last.fm/music/Headache), [Obladaet](https://www.last.fm/music/Obladaet), and [Madvillain](https://www.last.fm/music/Madvillain)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Headache](https://www.last.fm/music/Headache), [Obladaet](https://www.last.fm/music/Obladaet), and [Tennyson](https://www.last.fm/music/Tennyson)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
