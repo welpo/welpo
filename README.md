@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Headache](https://www.last.fm/music/Headache), [Tennyson](https://www.last.fm/music/Tennyson), and [Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Headache](https://www.last.fm/music/Headache), [Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers), and [Vegyn](https://www.last.fm/music/Vegyn)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
