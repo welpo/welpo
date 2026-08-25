@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Headache](https://www.last.fm/music/Headache), [Lambchop](https://www.last.fm/music/Lambchop), and [Tierra Whack](https://www.last.fm/music/Tierra+Whack)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Headache](https://www.last.fm/music/Headache), [Lambchop](https://www.last.fm/music/Lambchop), and [Charli xcx](https://www.last.fm/music/Charli+xcx)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
