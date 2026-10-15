@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Tinashe](https://www.last.fm/music/Tinashe), [Carly Rae Jepsen](https://www.last.fm/music/Carly+Rae+Jepsen), and [Bladee](https://www.last.fm/music/Bladee)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Tinashe](https://www.last.fm/music/Tinashe), [Carly Rae Jepsen](https://www.last.fm/music/Carly+Rae+Jepsen), and [Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
