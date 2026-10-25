@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Don Toliver](https://www.last.fm/music/Don+Toliver), [Vegyn](https://www.last.fm/music/Vegyn), and [Bladee](https://www.last.fm/music/Bladee)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Don Toliver](https://www.last.fm/music/Don+Toliver), [Vegyn](https://www.last.fm/music/Vegyn), and [Nach](https://www.last.fm/music/Nach)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
