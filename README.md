@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[The Avalanches](https://www.last.fm/music/The+Avalanches), [Don Toliver](https://www.last.fm/music/Don+Toliver), and [Rich Amiri](https://www.last.fm/music/Rich+Amiri)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[The Avalanches](https://www.last.fm/music/The+Avalanches), [Rich Amiri](https://www.last.fm/music/Rich+Amiri), and [Yeat](https://www.last.fm/music/Yeat)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
