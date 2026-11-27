@@ -1,5 +1,5 @@
 - 🌱 Always learning
-- 🎧 This week I've been listening to <!-- lastfm start -->[Headache & Vegyn](https://www.last.fm/music/Headache+&+Vegyn), [Playboi Carti](https://www.last.fm/music/Playboi+Carti), and [banzai florist](https://www.last.fm/music/banzai+florist)<!-- lastfm end -->
+- 🎧 This week I've been listening to <!-- lastfm start -->[Headache & Vegyn](https://www.last.fm/music/Headache+&+Vegyn), [Playboi Carti](https://www.last.fm/music/Playboi+Carti), and [Carly Rae Jepsen](https://www.last.fm/music/Carly+Rae+Jepsen)<!-- lastfm end -->
 - 🎹 Fun fact: I make music. [Check out my latest album, II](https://oskerwyld.com/II), proven to help you focus while coding~
 
 <!-- blog start -->
